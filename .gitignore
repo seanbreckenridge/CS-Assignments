@@ -1,0 +1,10 @@
+# https://github.com/github/gitignore
+
+# Mac
+.DS_Store
+
+# Emacs
+*~
+.[#]*[#]
+[#]*[#]
+
